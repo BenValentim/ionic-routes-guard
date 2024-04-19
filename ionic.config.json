@@ -1,0 +1,7 @@
+{
+  "name": "routes-guard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
